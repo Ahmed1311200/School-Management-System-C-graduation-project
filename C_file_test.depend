@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1725875952 source:c:\users\hp\desktop\c_file_test\main.c
+	<stdio.h>
+	"STD_Types.h"
+	"Math.h"
+	"STUDENT.h"
+
+1725627905 c:\users\hp\desktop\c_file_test\std_types.h
+
+1725822598 c:\users\hp\desktop\c_file_test\linkedlist.h
+	<stdio.h>
+	"stdlib.h"
+	"STD_Types.h"
+
+1725467262 c:\users\hp\desktop\c_file_test\math.h
+
+1725878205 c:\users\hp\desktop\c_file_test\student.h
+	<stdio.h>
+	"stdlib.h"
+	"STD_Types.h"
+
+1725822593 source:c:\users\hp\desktop\c_file_test\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"LINKEDLIST.h"
+	"STD_Types.h"
+
+1725878313 source:c:\users\hp\desktop\c_file_test\student.c
+	<stdio.h>
+	<stdlib.h>
+	"STUDENT.h"
+	"STD_Types.h"
+	<string.h>
+
+1726082885 source:c:\users\hp\desktop\school_mangment_system_project\main.c
+	<stdio.h>
+	"STD_Types.h"
+	"Math.h"
+	"STUDENT.h"
+
+1725627905 c:\users\hp\desktop\school_mangment_system_project\std_types.h
+
+1725467262 c:\users\hp\desktop\school_mangment_system_project\math.h
+
+1726224543 c:\users\hp\desktop\school_mangment_system_project\student.h
+	<stdio.h>
+	"stdlib.h"
+	"STD_Types.h"
+
+1726224930 source:c:\users\hp\desktop\school_mangment_system_project\student.c
+	<stdio.h>
+	<stdlib.h>
+	"STUDENT.h"
+	"STD_Types.h"
+	<string.h>
+
